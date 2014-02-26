@@ -4,3 +4,11 @@
 *.jar
 *.war
 *.ear
+
+build/
+out/
+.gradle/
+gradle.properties
+*.iml
+*.ipr
+*.iws
